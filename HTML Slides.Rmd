@@ -74,7 +74,8 @@ ggplot(data = penguins, aes(x = bill_length_mm, y = body_mass_g)) +
   ylab("Body Mass (g)")
 ```
 
-
+# Link to My CV
+[Resume/CV](Resume_CV_.pdf)
 
 
 
