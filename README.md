@@ -2,7 +2,7 @@
 My github pages site
 
 Link to CV:
-[link to REsume/CV](Resume_CV_.pdf)
+[link to Resume/CV](Resume_CV_.pdf)
 
 
 Link to Beamer Slides:
