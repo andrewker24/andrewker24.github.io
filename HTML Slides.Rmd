@@ -56,8 +56,6 @@ watching soccer and hockey
 </section>
 
 
-# A Picture of a Pangolin {data-background-image="pangolinpicture.jpg"}
-
 # My Favorite Plot
 ```{r}
 #| eval: true
