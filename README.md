@@ -10,7 +10,7 @@ Link to Beamer Slides:
 
 
 Link to HTML Slides:
-[link to html slides](HTML-Slides.html)
+[link to html slides](file:///C:/Users/ajk24/OneDrive/Desktop/STAT%20850%20Statistical%20Computing/andrewker24.github.io/HTML-Slides.html#/)
 
 
 
