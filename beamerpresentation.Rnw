@@ -172,7 +172,8 @@ ggplot(data = penguins, aes(x = bill_length_mm, y = body_mass_g)) +
 
 \begin{frame}{A link to the CV is provided below:}
 
-https://www.overleaf.com/project/636d4fd7bcff6d8a03449fde
+\hyperlink{Resume/CV}{https://www.overleaf.com/project/636d4fd7bcff6d8a03449fde}
+
 
 \end{frame}
 
