@@ -9,7 +9,8 @@ Link to Beamer Slides:
 [link to beamer slides](beamerpresentation.pdf)
 
 
-
+Link to HTML Slides:
+[link to html slides](HTML-Slides.html)
 
 
 
