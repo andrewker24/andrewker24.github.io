@@ -2,11 +2,11 @@
 My github pages site
 
 Link to CV:
-[link text](Resume_CV_.pdf)
+[link to REsume/CV](Resume_CV_.pdf)
 
 
 Link to Beamer Slides:
-[link text](beamerpresentation.pdf)
+[link to beamer slides](beamerpresentation.pdf)
 
 
 
